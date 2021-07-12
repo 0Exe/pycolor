@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pycolor3
-Version: 0.0.3
+Version: 0.0.4
 Summary: Color Markup In Python!
 Home-page: https://github.com/0Exe/pycolor
 Author: 0Exe
@@ -15,24 +15,24 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-pycolor2
+pycolor3
 
 # Installation:
 
 For Windows:
 ```py
-pip install pycolor2 --upgrade
+pip install pycolor3==0.0.3 --upgrade
 ```
 
 For MacOS and Linux:
 ```py
-pip3 install pycolor2 --upgrade
+pip3 install pycolor3==0.0.3 --upgrade
 ```
 
 # Usage Examples:
 
 ```py
-from pycolor2 import color
+from pycolor3 import color
 
 
 # Colorful Text
