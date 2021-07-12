@@ -1,1 +1,1 @@
-from pycolor_main2 import *
+import pycolor_main2

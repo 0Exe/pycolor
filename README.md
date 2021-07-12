@@ -4,18 +4,18 @@ pycolor3
 
 For Windows:
 ```py
-pip install pycolor3==0.0.4 --upgrade
+pip install pycolor3 --upgrade
 ```
 
 For MacOS and Linux:
 ```py
-pip3 install pycolor3==0.0.4 --upgrade
+pip3 install pycolor3 --upgrade
 ```
 
 # Usage Examples:
 
 ```py
-from pycolor3 import color
+from pycolor import color
 
 
 # Colorful Text
