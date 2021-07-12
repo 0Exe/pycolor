@@ -42,10 +42,16 @@ A list of all available colors:
 - cyan
 - white
 
+
 you can prefix "l-" to any color to make it light.
+
+
 you can also prefix "bg-" to any color to make it background.
 
+
 for a light background, you can use "l-bg-" as a prefix.
+
+
 NOTE: there isn't a "l-" prefix for white.
 
 
