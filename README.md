@@ -1,4 +1,4 @@
-# pycolor2
+pycolor2
 
 # Installation:
 
@@ -41,6 +41,7 @@ A list of all available colors:
 - magenta
 - cyan
 - white
+
 ##
 
 you can prefix "l-" to any color to make it light.
@@ -56,8 +57,10 @@ for a light background, you can use "l-bg-" as a prefix.
 
 #
 
+
 License: The MIT License (MIT)
 
 #
+
 
 By [github.com/0Exe](https://github.com/0Exe)
