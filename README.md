@@ -56,11 +56,6 @@ for a light background, you can use "l-bg-" as a prefix.
 `NOTE: there isn't a "l-" prefix for white.`
 
 #
-
-
 License: The MIT License (MIT)
-
 #
-
-
 By [github.com/0Exe](https://github.com/0Exe)
