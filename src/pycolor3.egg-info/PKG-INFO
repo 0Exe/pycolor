@@ -1,21 +1,38 @@
-pycolor3
+Metadata-Version: 2.1
+Name: pycolor3
+Version: 0.0.3
+Summary: Color Markup In Python!
+Home-page: https://github.com/0Exe/pycolor
+Author: 0Exe
+Author-email: zeroexe3000@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/0Exe/pycolor/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+pycolor2
 
 # Installation:
 
 For Windows:
 ```py
-pip install pycolor3==0.0.3 --upgrade
+pip install pycolor2 --upgrade
 ```
 
 For MacOS and Linux:
 ```py
-pip3 install pycolor3==0.0.3 --upgrade
+pip3 install pycolor2 --upgrade
 ```
 
 # Usage Examples:
 
 ```py
-from pycolor3 import color
+from pycolor2 import color
 
 
 # Colorful Text
@@ -59,3 +76,5 @@ for a light background, you can use "l-bg-" as a prefix.
 License: The MIT License (MIT)
 #
 By [github.com/0Exe](https://github.com/0Exe)
+
+
