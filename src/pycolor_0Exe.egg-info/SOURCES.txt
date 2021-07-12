@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/pycolor/__init__.py
+src/pycolor/pycolor-main.py
+src/pycolor_0Exe.egg-info/PKG-INFO
+src/pycolor_0Exe.egg-info/SOURCES.txt
+src/pycolor_0Exe.egg-info/dependency_links.txt
+src/pycolor_0Exe.egg-info/top_level.txt
