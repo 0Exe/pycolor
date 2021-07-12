@@ -4,7 +4,7 @@ def color(color, text):
     colors = {
         
         # text colors
-        'grey': '2',
+        'gray': '2',
         'black': '30',
         'red': '31',
         'green': '32',
@@ -36,7 +36,7 @@ def color(color, text):
         'l-bg-white': '107',
 
         # light text colors
-        'l-grey': '90',
+        'l-gray': '90',
         'l-red': '91',
         'l-green': '92',
         'l-yellow': '93',
